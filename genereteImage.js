@@ -1,16 +1,16 @@
 const Canvas = require("canvas")
 const Discord = require("discord.js")
-const background = 'https://w.wallhaven.cc/full/e7/wallhaven-e7y71l.jpg'
+const background = 'https://i.imgur.com/zhgsix9.jpg'
 
 const dim = {
-    height: 465,
-    width: 827,
+    height: 675,
+    width: 1200,
 }
 
 const av = {
     size: 256,
-    x: 827,
-    y: 465
+    x: 480,
+    y: 170
 }
 
 
