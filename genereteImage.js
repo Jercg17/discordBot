@@ -5,6 +5,7 @@ const background = 'https://i.imgur.com/zhgsix9.jpg'
 const dim = {
     height: 675,
     width: 1200,
+    margin: 50
 }
 
 const av = {
